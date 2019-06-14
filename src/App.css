@@ -1,0 +1,73 @@
+/* @import url('https://fonts.googleapis.com/css?family=Noto+Serif|Pacifico|Source+Serif+Pro'); */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+h1 {
+  margin: .2em auto;
+  font-size: 2em;
+  /* font-family: 'Noto Serif', serif; */
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+h3 {
+  margin: .2em auto;
+  font-size: 1.8em;
+  /* font-family: 'Noto Serif', serif; */
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  color: #696969;
+}
+
+.Home {
+  width: 100%;
+}
+
+.Home div {
+  margin: 2em auto;
+  padding: 1.5em;
+}
+
+.Home a {
+  /* font-family: 'Pacifico', cursive; */
+  font-family: 'Roboto';
+  font-size: 1.8em;
+}
+
+.author {
+  font-size: 1.5em;
+  /* font-family: 'Source Serif Pro', serif; */
+  font-family: 'Roboto';
+}
+
+.Entry {
+  width: 100%;
+  text-align: center;
+}
+
+.Entry div {
+  margin: 2em auto;
+  padding: 1.5em;
+  text-align: center;
+}
+
+.Entry .entry {
+  font-size: 2em;
+  /* font-family: 'Pacifico', cursive; */
+  font-family: 'Roboto';
+}
+
+.Entry a {
+  margin: 0 auto;
+  text-align: center;
+  /* font-family: 'Source Serif Pro', serif; */
+  font-family: 'Roboto';
+  display: inline-block;
+}

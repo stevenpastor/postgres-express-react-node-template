@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS entries;
+
+CREATE TABLE IF NOT EXISTS entries (
+  id BIGSERIAL PRIMARY KEY,
+  entry TEXT,
+  author VARCHAR(50)
+);
